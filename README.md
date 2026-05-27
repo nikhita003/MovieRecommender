@@ -116,7 +116,7 @@ MovieRecommender/
 ├── setup.py                 # Project setup configuration
 ├── README.md                # Project documentation
 └── .gitignore               # Git ignore rules
-
+```
 
 ---
 
