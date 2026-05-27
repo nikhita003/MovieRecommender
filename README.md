@@ -97,6 +97,7 @@ Added testing support for newly implemented features
 
 
 ## Project Structure
+```bash
 MovieRecommender/
 ├── .github/                 # GitHub workflows/config
 ├── .idea/                   # IDE configuration files
