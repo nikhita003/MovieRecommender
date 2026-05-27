@@ -152,7 +152,7 @@ MovieRecommender/
 - Containerized deployment support
 
 
-## Features
+## My Contribution
 - Implemented Two-Factor Authentication (2FA) for improved account security
 - Developed organized wishlist functionality for better movie management
 - Expanded automated testing coverage for improved reliability
